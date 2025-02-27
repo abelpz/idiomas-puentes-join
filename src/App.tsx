@@ -61,10 +61,12 @@ function App() {
 
   // Handle hash navigation on page load
   useEffect(() => {
-    if (window.location.hash === '#join' && donateSectionRef.current) {
-      // Add a small delay to ensure the page is fully loaded
+    if ((window.location.hash === '#join' || window.location.hash === '#unete') && donateSectionRef.current) {
       setTimeout(() => {
-        donateSectionRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });
+        donateSectionRef.current?.scrollIntoView({ 
+          behavior: 'smooth', 
+          block: 'end',
+        });
       }, 100);
     }
   }, []);
@@ -130,7 +132,10 @@ function App() {
   };
 
   const scrollToDonate = () => {
-    donateSectionRef.current?.scrollIntoView({ behavior: 'smooth' });
+    donateSectionRef.current?.scrollIntoView({ 
+      behavior: 'smooth',
+      block: 'end'  // This will align the bottom of the element with the bottom of the viewport
+    });
   };
 
   return (
@@ -655,7 +660,7 @@ function App() {
           <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
           </svg>
-          <span>{currentLang === 'en' ? 'Learn More About Bible Translation Support' : 'Aprende Más Sobre el Apoyo a la Traducción Bíblica'}</span>
+          <span>{currentLang === 'en' ? 'Learn More About Bible Translation Support' : 'Conoce más sobre el apoyo a la Traducción Bíblica Centrada en la Iglesia'}</span>
         </button>
       </div>
     </div>
