@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Equipando a la Iglesia Tribal",
+    "description": "Únete a la Iglesia global en equipar a las iglesias tribales con herramientas y recursos de traducción para llevar la Palabra de Dios al idioma de su corazón."
+  },
+  "hero": {
+    "title": "La Iglesia Equipando a la Iglesia",
+    "subtitle": "Respondiendo al Llamado de Dios de Amar y Servir a Través de la Traducción Bíblica Centrada en la Iglesia",
+    "description": "Trabajamos juntos como un solo cuerpo para equipar a las iglesias tribales con todo lo necesario para traducir, entender y crecer a través de las Escrituras en su propio idioma."
+  },
+  "donate": {
+    "local": "Dar desde Venezuela",
+    "international": "Únete Internacionalmente",
+    "cta": "Únete a la Iglesia Global",
+    "impact": "Tu apoyo ayuda a equipar a las iglesias tribales con herramientas de traducción, materiales de capacitación y recursos bíblicos que necesitan para llevar la Palabra de Dios a sus comunidades.",
+    "details": "Desde software de traducción hasta recursos bíblicos, proporcionamos a las iglesias tribales herramientas completas para una traducción fiel y confiable de la Biblia."
+  },
+  "scripture": {
+    "title": "Siguiendo el Ejemplo de la Iglesia Primitiva",
+    "description": "Así como la Iglesia primitiva fue movida por la gracia de Dios para apoyarse y fortalecerse mutuamente a través de fronteras culturales y geográficas, la Iglesia global de hoy continúa este patrón divino. A través del ánimo mutuo, el compartir de recursos y el ministerio colaborativo, somos testigos del amor de Dios unificando a Su pueblo en la misión de hacer Su Palabra accesible para todos.",
+    "reference1": "2 Corintios 8:1-2, 14",
+    "quote1": "Ahora, hermanos, queremos que se enteren de la gracia que Dios ha dado a las iglesias de Macedonia... En medio de las pruebas más difíciles, su desbordante alegría y su extrema pobreza abundaron en rica generosidad... En este momento la abundancia de ustedes suplirá lo que ellos necesitan, para que a su vez la abundancia de ellos supla lo que ustedes necesitan.",
+    "reference2": "Hechos 11:29-30",
+    "quote2": "Los discípulos, cada uno según sus posibilidades, decidieron ayudar a los hermanos que vivían en Judea."
+  },
+  "about": {
+    "title": "La Iglesia Ayudando a Iglesia",
+    "description": "A través del apoyo generoso de iglesias en todo el mundo y voluntarios que ofrecen sus talentos dados por Dios, desarrollamos herramientas de traducción para capacitar a las iglesias tribales. Juntos como una Iglesia global, nos aseguramos de que cada vez más iglesias tengan los recursos necesarios para llevar la Palabra de Dios a su pueblo y que puedan crecer Iglesias maduras y saludables en cada nación.",
+    "tools": {
+      "title": "Cómo Ayudamos",
+      "list": [
+        "Software de traducción diseñado para contextos tribales",
+        "Manuales y diccionarios de traducción bíblica",
+        "Textos fuente y notas para traductores",
+        "Materiales y talleres de capacitación y discipulado bíblico"
+      ]
+    }
+  }
+} 

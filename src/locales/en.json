@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Equipping the Tribal Church",
+    "description": "Join the global Church in equipping tribal churches with translation tools and resources to bring God's Word into their heart language."
+  },
+  "hero": {
+    "title": "The Church Equipping the Church",
+    "subtitle": "Answering God's Call to Love and Serve Through Church-Centric Bible Translation",
+    "description": "We work together as a single body to equip tribal churches with everything they need to translate, understand, and grow through Scripture in their own language."
+  },
+  "donate": {
+    "local": "Give from Venezuela",
+    "international": "Join Internationally",
+    "cta": "Join the Global Church",
+    "impact": "Your support helps equip tribal churches with translation tools, training materials, and biblical resources they need to bring God's Word to their communities.",
+    "details": "From translation software to biblical resources, we provide tribal churches with comprehensive tools for faithful and reliable Bible translation."
+  },
+  "scripture": {
+    "title": "Following the Early Church's Example",
+    "description": "Just as the early Church was moved by God's grace to support and strengthen one another across cultural and geographic boundaries, today's global Church continues this divine pattern. Through mutual encouragement, resource sharing, and collaborative ministry, we witness God's love unifying His people in the mission of making His Word accessible to all.",
+    "reference1": "2 Corinthians 8:1-2, 14",
+    "quote1": "And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches... In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity... At the present time your plenty will supply what they need, so that in turn their plenty will supply what you need.",
+    "reference2": "Acts 11:29-30",
+    "quote2": "The disciples, each according to their ability, decided to provide help for the brothers and sisters living in Judea."
+  },
+  "about": {
+    "title": "The Church Helping the Church",
+    "description": "Through the generous support of churches worldwide and volunteers offering their God-given talents, we develop translation tools to empower tribal churches. Together as one global Church, we ensure that every church has the resources needed to bring God's Word to their people and grow mature, healthy Churches in every nation.",
+    "tools": {
+      "title": "How We Help",
+      "list": [
+        "Translation software designed for tribal contexts",
+        "Biblical translation manuals and dictionaries",
+        "Source texts and translator notes",
+        "Biblical training and discipleship materials and workshops"
+      ]
+    }
+  }
+} 
